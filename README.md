@@ -28,7 +28,9 @@ Python歴8年。24時間稼働の情報配信システムを一人で設計・�
 
 ### LinkCare（個人開発中）
 
-![LinkCare](images/linkcare.png)
+<img src="images/linkcare.png" width="49%" alt="LinkCare 地図と相手の情報カード"> <img src="images/linkcare-link.png" width="49%" alt="LinkCare 連携リクエストと共有設定">
+
+※画面はイメージです（個人情報を含まない形で再現したもの）
 
 - アカウント同士で位置情報・端末状態・セキュリティ情報を共有する、iPhone／Androidアプリを個人開発中
 - 使用技術：Flutter、FastAPI、PostgreSQL、WebRTC
@@ -37,6 +39,8 @@ Python歴8年。24時間稼働の情報配信システムを一人で設計・�
 ### 業務自動化（Python／GAS）
 
 ![業務自動化](images/automation.png)
+
+※画面はイメージです（数値はすべて架空のサンプル）
 
 - 月次レポートの自動生成、スプレッドシート集計の自動化など、繰り返し作業のツール化
 - サンプル：[automation-samples](https://github.com/kaito2oo5/automation-samples)（Pythonの月次レポート自動生成＋GASの月次集計）
